@@ -1,5 +1,5 @@
 #! /bin/bash
-#SBATCH --chdir='/data/engs-df-green-ammonia/engs2523/Global_Port_Optimisation'
+#SBATCH --chdir='/data/engs-df-green-ammonia/engs2523/global-port-optimisation'
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=32
